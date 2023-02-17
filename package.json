@@ -4,7 +4,7 @@
   "title": "WorkingDir",
   "description": "Manage your working directories",
   "icon": "command-icon.png",
-  "author": "Patrick Lee",
+  "author": "patleeman",
   "categories": [
     "Developer Tools",
     "Productivity"
@@ -14,7 +14,7 @@
     {
       "name": "index",
       "title": "WorkingDir",
-      "description": "Manage your working directory",
+      "description": "Manage your Working Directory",
       "mode": "view"
     }
   ],
